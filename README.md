@@ -13,8 +13,6 @@ Share public Requests skills.
 
 - [CSDN博客](https://blog.csdn.net/xiaokai1999)
 
-- 
-
   
 
 ## 声明
@@ -38,3 +36,6 @@ Share public Requests skills.
 > import os.py
 > import time.py
 > ```
+教程：
+[个人网站](http://www.xiaokai1999.cn/archives/457)
+[CSDN](https://blog.csdn.net/xiaokai1999/article/details/105690965)
