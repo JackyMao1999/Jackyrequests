@@ -19,7 +19,6 @@ Share public Requests skills.
 
 ## 目录
 
-- [1.A站视频下载]()	
-- [2.通过企业微信API，推送消息给微信]()
-
+- [1.A站视频下载](https://github.com/JackyMao1999/Jackyrequests/tree/master/A%E7%AB%99%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD)	
+- [2.通过企业微信API，推送消息给微信](https://github.com/JackyMao1999/Jackyrequests/tree/master/WxSend)
 
